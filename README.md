@@ -1,13 +1,13 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Diego Ferreira</h1>
 <h3 align="center">A student focused in start programing</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DiegoFerreira2" alt="DiegoFerreira2" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Diego4g" alt="Diego4g" /> </p>
 
 
 
 
 - 💬 Ask me about **JavaScript, HTML, CSS, Node, React, SQL **
 
-- 📫 How to reach me **diegodejesusferreira8@gmail.com**
+- 📫 How to reach me **diegodejesusferreira2@gmail.com**
 
 - ⚡ Fun fact **Oneye 😜**
 
@@ -18,4 +18,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DiegoFerreira2&show_icons=true" alt="Diego Ferreira"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=Diego4g&show_icons=true" alt="Diego Ferreira"/> 
