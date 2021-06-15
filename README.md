@@ -1,4 +1,4 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Diego Ferreira</h1>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Diego Ferreira</h1>
 <h3 align="center">A student focused in start programing</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Diego4g" alt="Diego4g" /> </p>
 
