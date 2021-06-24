@@ -1,6 +1,6 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Diego Ferreira</h1>
 <h3 align="center">A student focused in start programing</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Diego4g" alt="Diego4g" /> </p>
+<a href="https://github.com/Diego4g"><img src="https://github-readme-stats.vercel.app/api?username=Diego4g&count_private=true" height="180" /></a> <a href="https://github.com/Diego4g"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego4g&langs_count=8&hide=html,css&layout=compact" height="180" /></a>
 
 
 
