@@ -1,6 +1,6 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Diego Ferreira</h1>
 <h3 align="center">A student focused in start programing</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Diego4g" alt="Diego4g" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Diego4g&color=yellow" alt="Profile views" /> </p>
 
 - 💬 Ask me about **JavaScript, HTML, CSS, Node, React, SQL **
 - 📫 How to reach me **diegodejesusferreira2@gmail.com**
