@@ -28,3 +28,5 @@
 </p>
 
 <br><br>
+
+![Snake animation](https://github.com/Diego4g/Diego4g/blob/output/github-contribution-grid-snake.svg)
