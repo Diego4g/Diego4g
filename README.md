@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Diego4g&color=yellow" alt="Profile views" /> </p>
 
 - 💬 Ask me about **JavaScript, HTML, CSS, Node, React, SQL **
-- 📫 How to reach me **diegodejesusferreira2@gmail.com**
+- 📫 How to reach me: **diegodejesusferreira2@gmail.com**
 - ⚡ Fun fact **Oneye 😜**
 
 <br><br>
