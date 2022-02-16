@@ -26,8 +26,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Diego4g&show_icons=true&theme=vision-friendly-dark" alt="Diego's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego4g&layout=compact&theme=vision-friendly-dark" alt="Diego's most languages"/>
+<img width="475em" src="https://github-readme-stats.vercel.app/api?username=Diego4g&show_icons=true&theme=vision-friendly-dark" alt="Diego's stats"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego4g&layout=compact&theme=vision-friendly-dark" alt="Diego's most languages"/>
 </p>
 
 <br><br>
