@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/63331530/142954945-ca68f993-c88f-43fc-a758-015403ac61a9.png" min-width="400px" max-width="400px" align="right">
-<h1 align="left">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Diego Ferreira</h1>
+<h1 align="left">Hi<img >, I'm Diego Ferreira</h1>
 <h3 align="left">A student focused in start programing</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Diego4g&color=yellow" alt="Profile views" /> </p>
 
